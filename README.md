@@ -1,7 +1,7 @@
 # Simulador de Circuitos Digitais em C++
 
 ![Linguagem](https://img.shields.io/badge/Linguagem-C%2B%2B-blue.svg)
-![Plataforma](https://img.shields.io/badge/Plataforma-Terminal-lightgrey.svg)
+![Plataforma](https://img.shields.io/badge/Plataforma-Qt-41CD52.svg)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen.svg)
 
 ## 📖 Sobre o Projeto
