@@ -2,7 +2,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este é um simulador de circuitos lógicos digitais desenvolvido em C++. O projeto foi um trabalho da disciplina de Programação Avançada (DCA0118) do curso de Engenharia de Computação e Automação da Universidade Federal do Rio Grande do Norte (UFRN). 
+Este é um simulador de circuitos lógicos digitais desenvolvido em C++. O projeto foi um trabalho da disciplina de Programação Avançada (DCA3303) do curso de Engenharia de Computação da Universidade Federal do Rio Grande do Norte (UFRN). 
 
 O objetivo principal era desenvolver um simulador capaz de interpretar a descrição de um circuito, processar as conexões entre as portas lógicas e calcular os valores nas saídas. Uma característica central do simulador é o uso de um sistema de lógica de três estados (**TRUE**, **FALSE** e **UNDEFINED**), o que o permite, através de um algoritmo iterativo, determinar o estado de circuitos complexos que contenham ciclos (feedback loops).
 
