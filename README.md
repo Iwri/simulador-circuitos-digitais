@@ -1,5 +1,9 @@
 # Simulador de Circuitos Digitais em C++
 
+![Linguagem](https://img.shields.io/badge/Linguagem-C%2B%2B-blue.svg)
+![Plataforma](https://img.shields.io/badge/Plataforma-Terminal-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen.svg)
+
 ## 📖 Sobre o Projeto
 
 Este é um simulador de circuitos lógicos digitais desenvolvido em C++. O projeto foi um trabalho da disciplina de Programação Avançada (DCA3303) do curso de Engenharia de Computação da Universidade Federal do Rio Grande do Norte (UFRN). 
