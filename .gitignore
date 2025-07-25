@@ -1,0 +1,14 @@
+# Arquivos de compilação e executáveis
+*.o
+*.obj
+*.exe
+*.out
+simulador
+
+# Pastas e arquivos de configuração de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de log
+*.log
